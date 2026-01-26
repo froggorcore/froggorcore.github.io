@@ -5,5 +5,5 @@ draft = false
 +++
 
 ## Headings?!
-{{< figure src=/images/kitten.jpg >}}
+{{< figure src="../images/kitten.jpg" >}}
 *meow!!!*
