@@ -13,7 +13,7 @@
       <link>http://localhost:1313//froggorcore.github.io/posts/post_test/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313//froggorcore.github.io/posts/post_test/</guid>
-      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings?!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313//froggorcore.github.io/images/kitten.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;em&gt;meow!!!&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings?!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;../images/kitten.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;em&gt;meow!!!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
