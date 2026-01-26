@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tehehe</title>
+    <link>http://localhost:1313//froggorcore.github.io/posts/</link>
+    <description>Recent content in Posts on tehehe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313//froggorcore.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>figuring out how to post</title>
+      <link>http://localhost:1313//froggorcore.github.io/posts/post_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313//froggorcore.github.io/posts/post_test/</guid>
+      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings?!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313//froggorcore.github.io/images/kitten.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;em&gt;meow!!!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
