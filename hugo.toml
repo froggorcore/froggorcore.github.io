@@ -1,8 +1,67 @@
-baseURL = 'https://https://froggorcore.github.io/'
+# local development
+# baseURL = '/'
+# github hosting
+baseURL = '/froggorcore.github.io'
 languageCode = 'en-us'
-title = "tehehe"
-theme = 'paper'
+title = "froggor's website"
+theme = 'PaperMod'
+
+[params]
+  hideAuthor = true
+  showBreadCrumbs = true
+
+[params.author]
+  name = "froggor"
+
+[params.label]
+  text = "Home"
+  
+[params.profileMode]
+  enabled = true
+  title = "Rosalind Chang | @froggor"
+  subtitle = "Electrical and Computer Engineering at Olin College"
+  imageUrl = 'images/home_image.png'
+  imageWidth = 150
+  imageHeight = 150
+
+[[params.socialIcons]]
+  name = "Github"
+  url = "https://github.com/froggorcore"
+
+[[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/rosalindhchang"
+
+[[params.profileMode.buttons]]
+  name = "The Good Projects"
+  url = "tags/featured"
+
+[[params.profileMode.buttons]]
+  name = "all the fun along the way ;)"
+  url = "/projects"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menus]
+  [[menus.main]]
+    name = 'About'
+    pageRef = 'about.md'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Resume'
+    pageRef = '/resume'
+    weight = 15
+
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 20
+
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true

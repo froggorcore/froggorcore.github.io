@@ -1,33 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>tehehe</title>
-    <link>http://localhost:1313//froggorcore.github.io/</link>
-    <description>Recent content on tehehe</description>
+    <title>froggor&#39;s website</title>
+    <link>//localhost:1313///froggorcore.github.io/</link>
+    <description>Recent content on froggor&#39;s website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313//froggorcore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313///froggorcore.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313//froggorcore.github.io/pages/contact/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313//froggorcore.github.io/pages/contact/</guid>
-      <description>&lt;p&gt;hub.com/froggorcore)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/rosalind-chang-116020212&#34;&gt;LinkedIn&lt;/a&gt;&#xA;��������������������&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>GOlin</title>
+      <link>//localhost:1313///froggorcore.github.io/projects/golin/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/projects/golin/</guid>
+      <description>An RPG based off of Olin College, created using pygame for the Software Design course.</description>
     </item>
     <item>
-      <title>figuring out how to post</title>
-      <link>http://localhost:1313//froggorcore.github.io/posts/post_test/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313//froggorcore.github.io/posts/post_test/</guid>
-      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings?!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;../images/kitten.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;em&gt;meow!!!&lt;/em&gt;&lt;/p&gt;</description>
+      <title>Battery Management System</title>
+      <link>//localhost:1313///froggorcore.github.io/projects/bms/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/projects/bms/</guid>
+      <description></description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313//froggorcore.github.io/pages/about/</link>
+      <title>Resume</title>
+      <link>//localhost:1313///froggorcore.github.io/resume/</link>
+      <pubDate>Sat, 14 Mar 2026 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/resume/</guid>
+      <description>&lt;iframe src=&#34;Resume.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Wikipedia Speedrun Difficulty</title>
+      <link>//localhost:1313///froggorcore.github.io/projects/wiki_speedrun/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/projects/wiki_speedrun/</guid>
+      <description>Quantifying the difficulty of a Wikipedia speedrun using linear algebra and graph theory.</description>
+    </item>
+    <item>
+      <title>Hopper Project</title>
+      <link>//localhost:1313///froggorcore.github.io/projects/hopper/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/projects/hopper/</guid>
+      <description>A bio-inspired jumping mechanism.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313///froggorcore.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313//froggorcore.github.io/pages/about/</guid>
-      <description>&lt;p&gt;froggor website&lt;/p&gt;</description>
+      <guid>//localhost:1313///froggorcore.github.io/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313///froggorcore.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313///froggorcore.github.io/about/</guid>
+      <description>&lt;h3 id=&#34;hi-d&#34;&gt;Hi :D&lt;/h3&gt;
+&lt;p&gt;If I could choose one word to describe myself, I would say that I am &lt;strong&gt;curious&lt;/strong&gt;. I find purpose in understanding why, whether it be why something works, why something doesn&amp;rsquo;t work, or just why I do things. I would describe my outlook on life as &lt;strong&gt;reasonably optimistic&lt;/strong&gt; &amp;ndash; hope for the best, prepare for the worst.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;I chose to study at the &lt;strong&gt;Olin College of Engineering&lt;/strong&gt; because because of its collaborative and project-based courses, which allow me to exercise creativity and autonomy. I enjoy taking ownership over my projects and developing a broader systems perspective. The people here are amazing; they &lt;em&gt;&lt;strong&gt;care&lt;/strong&gt;&lt;/em&gt; about learning and going above and beyond, not just doing the bare minimum.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
