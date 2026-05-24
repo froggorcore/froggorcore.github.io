@@ -1,0 +1,43 @@
+/* Layout the homepage card into 2 clear columns */
+.post-entry {
+    display: grid;
+    grid-template-columns: 1fr 180px; /* Text takes left space, Image takes exactly 180px on the right */
+    grid-template-areas: 
+        "header image"
+        "content image"
+        "footer image";
+    align-items: center;
+    column-gap: 24px; /* Space between text column and image */
+    row-gap: 8px;    /* Tight space between title, description, and date */
+}
+
+/* Assign each element to its correct zone */
+.post-entry .entry-header  { grid-area: header; }
+.post-entry .entry-content { grid-area: content; }
+.post-entry .entry-footer  { grid-area: footer; }
+
+/* Assign and format the image */
+.post-entry .entry-cover {
+    grid-area: image;
+    margin: 0 !important;
+    width: 100%;
+}
+
+.post-entry .entry-cover img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover; /* Prevents stretching, crops cleanly */
+    border-radius: 6px;
+}
+
+/* Mobile responsive layout: stack them if screens are narrow */
+@media (max-width: 650px) {
+    .post-entry {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    .post-entry .entry-cover img {
+        height: auto; /* Let it expand naturally on mobile */
+    }
+}

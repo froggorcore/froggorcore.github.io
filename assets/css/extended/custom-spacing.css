@@ -1,0 +1,9 @@
+/* more space between breadcrumb and titles*/
+
+.breadcrumbs {
+    margin-bottom: 1rem; 
+}
+
+.post-tags {
+    margin-bottom: 1.5rem; 
+}
